@@ -121,24 +121,24 @@ author:
   email            : yao.ma1992@gmail.com
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-square-envelope"
-      url: "mailto:yao.ma1992@gmail.com"
+    # - label: "Email"
+    #   icon: "fas fa-fw fa-square-envelope"
+    #   url: "mailto:yao.ma1992@gmail.com"
     - label: "Resume"
       icon: "fas fa-fw fa-link"
       url: "/assets/files/resume.pdf"
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
-      # url: "https://scholar.google.com/citations?user=b8Tdfc0AAAAJ&hl=en"
+      url: "https://scholar.google.com/citations?user=b8Tdfc0AAAAJ&hl=en"
     - label: "ORCID"
       icon: "fas fa-fw fa-id-badge"
-      # url: "https://orcid.org/0000-0003-1185-3431"
+      url: "https://orcid.org/0000-0003-1185-3431"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      # url: "https://www.linkedin.com/in/yao-ma-98633378/
+      url: "https://www.linkedin.com/in/yao-ma-98633378/
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/mayaobobby"
+      url: "https://github.com/mayaobobby"
 
 
 # Site Footer
