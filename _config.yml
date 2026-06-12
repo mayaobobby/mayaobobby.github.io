@@ -114,9 +114,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yao Ma"
+  name             : "Yao Ma (马遥)"
   avatar           : "/assets/images/yao_ma.jpeg"
-  bio              : "Quantum Researcher/Engineer, Research Associate at NUS"
+  bio              : "Quantum Researcher/Engineer, Research Fellow at NUS"
   location         : "Singapore, Singapore"
   email            : yao.ma1992@gmail.com
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
